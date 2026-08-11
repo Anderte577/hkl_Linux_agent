@@ -1,0 +1,5 @@
+{
+    "device_name": "",
+    "server_url": "http://192.168.0.8:5000",
+    "heartbeat_interval": 30
+}
